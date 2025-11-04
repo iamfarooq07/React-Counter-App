@@ -12,7 +12,7 @@ function App() {
     setNum(num - 1);
   }
   function zero() {
-    setNum(0);
+    setNum(1);
   }
   return (
     <>
